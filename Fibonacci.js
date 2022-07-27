@@ -1,5 +1,4 @@
 /*
-* Created by Amit Iluz.
 * Fibonacci is a self executing function that
 * compute the next number of fibonacci series
 * without any parameters from the outside.
